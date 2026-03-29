@@ -214,8 +214,8 @@ Built in 2 hours as part of a capstone project.
 
 | Role | Responsibility |
 |---|---|
-| Person A | Vision pipeline (YOLOv8, ForensicScorer, Adam training) |
-| Person B | RAG system (Wikipedia, FAISS), LLM integration, Streamlit UI |
+| Amrutha Ajish Achuthan | Vision pipeline (YOLOv8, ForensicScorer, Adam training) |
+| Akhila Sunesh | RAG system (Wikipedia, FAISS), LLM integration, Streamlit UI |
 
 ---
 

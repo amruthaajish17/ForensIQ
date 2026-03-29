@@ -1,0 +1,12 @@
+ultralytics
+torch
+torchvision
+streamlit
+faiss-cpu
+sentence-transformers
+google-generativeai
+wikipedia-api
+matplotlib
+Pillow
+numpy
+python-dotenv
